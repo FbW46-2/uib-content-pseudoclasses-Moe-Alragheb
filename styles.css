@@ -1,0 +1,32 @@
+body {
+  background-color: darkred;
+}
+
+a {
+  color: red;
+}
+
+a:visited {
+  color: green;
+}
+a:hover {
+  color: blue;
+}
+
+a:active {
+  color: yellow;
+}
+
+a:focus {
+  background-color: red;
+}
+
+.google {
+  background-color: white;
+}
+.bing {
+  background-color: magenta;
+}
+.yahoo {
+  background-color: yellow;
+}
